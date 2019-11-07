@@ -52,6 +52,7 @@ h2 {
   text-align: center; 
   font-size: 80%;
   line-height: 1;
+  float: right;
 }
 #elixirs a:link { color: #007e7e;}
 #elixirs a:visited { color: #333333;}
